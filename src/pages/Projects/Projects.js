@@ -1,6 +1,6 @@
 import React from 'react'
 
-import './Projects.scss'
+import './Projects.css'
 
 const Projects = () => {
   return (
