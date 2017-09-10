@@ -1,0 +1,1 @@
+This is a side project that I am making for a friend. It is just a static online Photography Portfolio. It is used with React.
